@@ -2,7 +2,7 @@
 
 Prediction of Chronic Kidney Disease using the dataset https://archive.ics.uci.edu/ml/datasets/chronic_kidney_disease#
 
-This data set has a lot of missing values, for filling in those values you can do 2 things 
+This data set has a lot of missing values, for filling in those values we can do 3 things 
 
 1. Take the mean of the values and replace the missing porting with the mean.
 
