@@ -4,9 +4,9 @@ Prediction of Chronic Kidney Disease using the dataset https://archive.ics.uci.e
 
 This data set has a lot of missing values, for filling in those values we can do 3 things 
 
-1. Take the mean of the values and replace the missing porting with the mean.
+1. Take the mean of the values and replace the missing portion with the mean.
 
-2. Removing the data with missing values ( this would result in the loss of data )
+2. Removing the data with missing values ( this would result in a lot of loss of data )
 
 3. Predict the missing values using Multi-Variate Linear Regression.
 
